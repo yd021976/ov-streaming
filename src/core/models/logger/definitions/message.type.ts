@@ -1,0 +1,1 @@
+export type TLogMessage = { message: string, otherParams: any[] }
